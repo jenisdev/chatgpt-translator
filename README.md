@@ -1,4 +1,4 @@
-# Opentranslator - OpenAI | ChatGPT | Translate with python
+# ChatGPT Translate with python
 
 Opentranslator is a simple command that can be used from the terminal to translate text (text plain or from a file). It uses OpenAI API to perform all operations, you can choose which ai engine to use by passing it as a parameter.
 
